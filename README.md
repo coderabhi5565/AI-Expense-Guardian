@@ -22,3 +22,5 @@ To create a transparent, AI-assisted financial ecosystem where individuals and b
 - Integration with an off-chain AI model for budget forecasting.  
 - Multi-user expense analytics dashboard.  
 - Automated alerts when spending approaches the limit.  
+<img width="1583" height="898" alt="{2BCF467B-D0CB-4F15-AF0B-E399ACECC69E}" src="https://github.com/user-attachments/assets/3792046f-9738-4119-a869-06aac91ce7e8" />
+
